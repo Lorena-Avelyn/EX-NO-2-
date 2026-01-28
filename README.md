@@ -179,23 +179,7 @@ void encryptDecryptText(char *text, char matrix[SIZE][SIZE], int encrypt) {
 
 <img width="847" height="320" alt="image" src="https://github.com/user-attachments/assets/80f90414-a041-48da-bcfc-ecb7395290c1" />
 
+## Result
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output:
-
+Thus the implementation of playfair cipher had been executed successfully
 
